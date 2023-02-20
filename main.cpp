@@ -1,9 +1,4 @@
 #include <iostream>
-#include <cmath>
-#include <algorithm>
-#include <boost/multiprecision/cpp_int.hpp>
- 
- 
  
 class DimensionlessNum
 {
@@ -179,3 +174,4 @@ int main()
     //fact(num).Print();
  
     //num.Print();
+}
